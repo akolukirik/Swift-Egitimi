@@ -1,2 +1,5 @@
-# swift.egitimi
-swift eğitim örnek kodlar ve çalışmalar
+# Swift Eğitim Çalışmaları
+
+<h2>İletişim</h2>
+ali.kolukirik@pm.me <br>
+@akolukirik
